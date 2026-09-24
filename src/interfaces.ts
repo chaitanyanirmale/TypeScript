@@ -111,7 +111,7 @@ const employees_: Employees = {
   department: 'Marketing'
 }
 
-console.log(employees)
+console.log(employees_)
 
 function displayValue(value: number | string) {
   if(typeof value === 'number'){
